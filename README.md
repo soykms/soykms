@@ -1,7 +1,7 @@
 # About me<br>
 **Manufacturing Data Analyst & Engineer** <br>
-Since starting my career as a process engineer, I’ve always been passionate about data‑driven decision making. I specialize in transforming raw data from diverse sources into actionable insights, automated workflows, and scalable BI solutions that improve operational efficiency and business performance.
-I enjoy bridging the gap between manufacturing operations and data engineering, enabling organizations to make smarter, faster decisions.
+I am a data‑driven manufacturing specialist with a strong foundation in process engineering and a passion for turning complex operational data into measurable business value. My work focuses on building scalable data pipelines, automating workflows, and delivering analytics solutions that enhance productivity, reduce cost, and accelerate decision‑making across manufacturing environments.
+I bridge the gap between shop‑floor operations and modern data engineering, enabling organizations to operate smarter, faster, and more efficiently.
 
 # Domain Skills<br>
 - Data Engineering
